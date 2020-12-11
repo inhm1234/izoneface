@@ -246,7 +246,7 @@ body {
   height: 2.7rem;
 }
 
-.ilyn-box {
+.anyujin-box {
   position: absolute;
   top: 0;
   left: 0;
@@ -256,7 +256,7 @@ body {
   background-color: rgba(117, 204, 84, 0.2);
 }
 
-.ilyn-bar {
+.anyujin-bar {
   position: absolute;
   top: 0;
   left: 0;
@@ -265,7 +265,7 @@ body {
   background-color: rgba(117, 204, 84, 1);
 }
 
-.joy-box {
+.choiyena-box {
   position: absolute;
   top: 0;
   left: 0;
@@ -275,7 +275,7 @@ body {
   background-color: rgba(117, 204, 84, 0.2);
 }
 
-.joy-bar {
+.choiyena-bar {
   position: absolute;
   top: 0;
   left: 0;
@@ -284,7 +284,7 @@ body {
   background-color: rgba(117, 204, 84, 1);
 }
 
-.selgi-box {
+.ganghyewon-box {
   position: absolute;
   top: 0;
   left: 0;
@@ -294,7 +294,7 @@ body {
   background-color: rgba(27, 175, 234, 0.2);
 }
 
-.selgi-bar {
+.ganghyewon-bar {
   position: absolute;
   top: 0;
   left: 0;
@@ -303,7 +303,7 @@ body {
   background-color: rgba(27, 175, 234, 1);
 }
 
-.wendi-box {
+.gunenbee-box {
   position: absolute;
   top: 0;
   left: 0;
@@ -313,7 +313,7 @@ body {
   background-color: rgba(251, 176, 59, 0.2);
 }
 
-.wendi-bar {
+.gunenbee-bar {
   position: absolute;
   top: 0;
   left: 0;
@@ -322,7 +322,7 @@ body {
   background-color: rgba(251, 176, 59, 1);
 }
 
-.yeri-box {
+.hondahitomi-box {
   position: absolute;
   top: 0;
   left: 0;
@@ -332,7 +332,7 @@ body {
   background-color: rgba(195, 140, 102, 0.2);
 }
 
-.yeri-bar {
+.hondahitomi-bar {
   position: absolute;
   top: 0;
   left: 0;
@@ -341,12 +341,145 @@ body {
   background-color: rgba(195, 140, 102, 1);
 }
 
+.jangownyoung-box {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 2rem;
+  border-radius: 10px;
+  width: 100%;
+  background-color: rgba(117, 204, 84, 0.2);
+}
+
+.jangownyoung-bar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 2rem;
+  border-radius: 10px;
+  background-color: rgba(117, 204, 84, 1);
+}
+
+.joyuri-box {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 2rem;
+  border-radius: 10px;
+  width: 100%;
+  background-color: rgba(117, 204, 84, 0.2);
+}
+
+.joyuri-bar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 2rem;
+  border-radius: 10px;
+  background-color: rgba(117, 204, 84, 1);
+}
+
+.kimchawon-box {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 2rem;
+  border-radius: 10px;
+  width: 100%;
+  background-color: rgba(27, 175, 234, 0.2);
+}
+
+.kimchawon-bar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 2rem;
+  border-radius: 10px;
+  background-color: rgba(27, 175, 234, 1);
+}
+
+.kimminju-box {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 2rem;
+  border-radius: 10px;
+  width: 100%;
+  background-color: rgba(251, 176, 59, 0.2);
+}
+
+.kimminju-bar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 2rem;
+  border-radius: 10px;
+  background-color: rgba(251, 176, 59, 1);
+}
+
+.miyawakisakura-box {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 2rem;
+  border-radius: 10px;
+  width: 100%;
+  background-color: rgba(195, 140, 102, 0.2);
+}
+
+.miyawakisakura-bar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 2rem;
+  border-radius: 10px;
+  background-color: rgba(195, 140, 102, 1);
+}
+
+.yabukinako-box {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 2rem;
+  border-radius: 10px;
+  width: 100%;
+  background-color: rgba(117, 204, 84, 0.2);
+}
+
+.yabukinako-bar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 2rem;
+  border-radius: 10px;
+  background-color: rgba(117, 204, 84, 1);
+}
+
+.yicheayoun-box {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 2rem;
+  border-radius: 10px;
+  width: 100%;
+  background-color: rgba(117, 204, 84, 0.2);
+}
+
+.yicheayoun-bar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 2rem;
+  border-radius: 10px;
+  background-color: rgba(117, 204, 84, 1);
+}
+
 .percent-text {
   font-size: 1rem;
   color: #ffffff;
 }
 
-.red-label {
+.izone-label {
     width: 20%;
     text-align: left;
     height: 2rem;
@@ -359,28 +492,56 @@ body {
     font-size: 2rem;
 }
 
-.red-explain {
+.izone-explain {
     font-size: 1.5rem;
 }
 
-.ilyn-red-title {
+.anyujin-izone-title {
     color: #3ba363;
 }
 
-.joy-red-title {
+.choiyena-izone-title {
     color: #3ba363;
 }
 
-.selgi-red-title {
+.ganghyewon-izone-title {
     color: #3ba363;
 }
 
-.wendi-red-title {
+.gunenbee-izone-title {
     color: #3ba363;
 }
 
-.yeri-red-title {
+.hondahitomi-izone-title {
     color: #3ba363;
+}
+
+.jangownyoung-izone-title {
+  color: #3ba363;
+}
+
+.joyuri-izone-title {
+  color: #3ba363;
+}
+
+.kimchawon-izone-title {
+  color: #3ba363;
+}
+
+.kimminju-izone-title {
+  color: #3ba363;
+}
+
+.miyawakisakura-izone-title {
+  color: #3ba363;
+}
+
+.yabukinako-izone-title {
+  color: #3ba363;
+}
+
+.yicheayoun-izone-title {
+  color: #3ba363;
 }
 
 .ad-banner {
